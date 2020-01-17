@@ -16,7 +16,7 @@ render() {
     <div className='App'>
     <header className='App-header'>
       <p>
-      <lorem>Hi Stranger</lorem>
+        Hi Stranger
       </p>
       
     </header>
